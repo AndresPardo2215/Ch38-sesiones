@@ -1,0 +1,15 @@
+/* Hoja de estilo personalizada */
+/* CSS: Cascading Style Sheet, eso significa que se lee de arriba
+para abajo */
+/* especificidad, hay prioridad/precedencia en la lectura tambén */
+
+/* selector de etiqueta hay herencia para los niveles dentro de
+body*/
+body {
+    background-color:#EEFEED;
+    color:#769A75;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main {
+    text-align: center;
+}
