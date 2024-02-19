@@ -11,6 +11,6 @@ function enviarSaludo(){
  * Mostrar un saludo y nombre de la persona con alert
  */
 function enviarSaludoAPersona(){
-    nombre=prompt("Dime tu nombre");
-    alert("Hola "+nombre);
+    const nombre=prompt("Dime tu nombre");
+    alert("Hola "+ nombre);
 }
